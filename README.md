@@ -216,12 +216,6 @@ Algorithmic thinking and data manipulation exercises in Jupyter Notebook. Streng
 
 </div>
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=pranjalsalvi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 ## 📚 Currently Exploring
