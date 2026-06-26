@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Extract+%E2%80%A2+Transform+%E2%80%A2+Analyze+%F0%9F%93%8A;Python+%7C+Java+%7C+SQL+%7C+Power+BI;Building+AI-Powered+Applications+%F0%9F%A4%96;Turning+Data+Into+Decisions+%F0%9F%8E%AF;Always+Learning+Something+New+%F0%9F%9A%80;Open+Source+%7C+Problem+Solver+%7C+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Extract+%E2%80%A2+Transform+%E2%80%A2+Analyze+%F0%9F%93%8A;Python+SQL+%7C+Power+BI;Building+AI-Powered+Applications+%F0%9F%A4%96;Turning+Data+Into+Decisions+%F0%9F%8E%AF;Always+Learning+Something+New+%F0%9F%9A%80;Open+Source+%7C+Problem+Solver+%7C+Builder)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,8 +20,6 @@
 ---
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"/> About Me
-
-<img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```python
 class PranjalSalvi:
@@ -44,7 +42,7 @@ me.say_hi()
 
 <br/>
 
-🎓 &nbsp;CS student who loves building software and solving real-world problems with data  
+🎓 &nbsp;Computer Application student who loves building software and solving real-world problems with data  
 🔭 &nbsp;Currently working on **AI-powered apps** and **data-driven projects**  
 🌱 &nbsp;Actively learning **Spring Boot · Java DSA · Machine Learning · Power BI · Advanced SQL**  
 🤝 &nbsp;Open to **collaborating on Open Source, Backend, or Data projects**  
@@ -231,7 +229,6 @@ Algorithmic thinking and data manipulation exercises in Jupyter Notebook. Streng
 <div align="center">
 
 ```text
-☕ Java DSA          ████████████░░░░░░  Mastering
 🔧 Spring Boot       ██████████░░░░░░░░  Building
 🌐 REST APIs         ███████████░░░░░░░  Deepening
 📊 Power BI & DAX    ████████░░░░░░░░░░  Exploring
@@ -310,41 +307,11 @@ Algorithmic thinking and data manipulation exercises in Jupyter Notebook. Streng
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranjalsalvi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjal-salvi-380732227)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pranjalsalvi02/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranjalsalvi@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranjalpusalvi02@gmail.com)
 
 </div>
 
 ---
-
-## ⚡ Fun Zone
-
-<div align="center">
-
-### 🐍 My Contributions Being Devoured
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranjalsalvi/pranjalsalvi/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranjalsalvi/pranjalsalvi/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pranjalsalvi/pranjalsalvi/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-> 💡 **Enable the snake:** Add a [GitHub Action](https://github.com/Platane/snk) to your profile repo to generate this automatically.
-
-<br/>
-
-### 😄 Random Dev Joke
-
-[![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)](https://github.com/ABSphreak/readme-jokes)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:0f2027,100:0d1117&height=140&section=footer&text=Thanks+for+visiting!+Happy+Coding+%F0%9F%9A%80&fontSize=22&fontColor=58A6FF&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-<br/>
 
 *⭐ If something here sparked your interest, consider starring a repo — it means a lot!*
 
